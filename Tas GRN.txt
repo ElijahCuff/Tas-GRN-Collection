@@ -8,7 +8,7 @@ https://broadcastify.cdnstream1.com/38396
 Police South,
 https://broadcastify.cdnstream1.com/35239
 
-Police Mt WEllington,
+Police Mt Wellington,
 http://www.peter-johnson.com.au:8000/HTMLAudioPlayerstream
 http://www.peter-johnson.com.au:8000/stream
 
