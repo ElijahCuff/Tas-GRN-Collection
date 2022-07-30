@@ -2,7 +2,7 @@ TAS EDACS Network GRN
 Fire NW,
 https://broadcastify.cdnstream1.com/25485
 
-Fire South,
+Fire and Ambulance South,
 https://broadcastify.cdnstream1.com/38396
 
 Police South,
