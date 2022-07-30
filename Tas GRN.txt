@@ -2,7 +2,7 @@ TAS EDACS Network GRN
 Fire NW,
 https://broadcastify.cdnstream1.com/25485
 
-Fire and Ambulance South,
+Fire & Ambulance South,
 https://broadcastify.cdnstream1.com/38396
 
 Police South,
@@ -15,5 +15,8 @@ http://www.peter-johnson.com.au:8000/stream
 Police North,
 https//shaincast.caster.fm:34748/listen.mp3?authn4212ab6e1db15a7f3b0e0f5a0d4ef772
 
-YMHB Gnd/Twr/Centre Airport Hobart - Cambridge, Tasmania, Australia,
+YMHB Gnd/Twr/Centre Airport - South, Tasmania, Australia,
 https://s1-fmt2.liveatc.net/ymhb?nocache=2022073007371612963
+
+YMLT, Gnd/Twr/Centre Airport - North Tasmania, Australia
+http://d.liveatc.net/ymhb2.mp3?nocache=2022073007371612963
