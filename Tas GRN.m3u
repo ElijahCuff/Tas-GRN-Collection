@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:-1,Cz- Fire North
+#EXTINF:-1, Fire North
 https://broadcastify.cdnstream1.com/25485
-#EXTINF:-1,Cz- Fire and Ambulance South
+#EXTINF:-1, Fire and Ambulance South
 https://broadcastify.cdnstream1.com/38396
-#EXTINF:-1,Cz- Police South
+#EXTINF:-1, Police South
 https://broadcastify.cdnstream1.com/35239
-#EXTINF:-1,Cz- Police South 2
+#EXTINF:-1, Police South 2
 http://www.peter-johnson.com.au:8000/stream
-#EXTINF:-1,Cz- Police North
+#EXTINF:-1, Police North
 https//shaincast.caster.fm:34748/listen.mp3?authn4212ab6e1db15a7f3b0e0f5a0d4ef772
-#EXTINF:-1,Cz- Airport North & South
+#EXTINF:-1, Airport North & South
 http://d.liveatc.net/ymhb2.mp3?nocache=2022073007371612963
-#EXTINF:-1,Cz- Airport South
+#EXTINF:-1, Airport South
 https://s1-fmt2.liveatc.net/ymhb?nocache=2022073007371612963
