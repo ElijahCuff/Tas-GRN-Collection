@@ -28,4 +28,5 @@ Tasmania Australia, Government Radio Network Collection.
 ![screen](RTL%20SDR.jpg)    
 ![screen](map.jpg)         
 
+Repeaters & Channel Assignments,
 https://web.acma.gov.au/rrl/site_proximity.for_client?pCLIENT_NO=220486 
