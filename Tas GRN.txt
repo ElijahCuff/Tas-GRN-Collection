@@ -15,6 +15,12 @@ http://www.peter-johnson.com.au:8000/stream
 Police North,
 https//shaincast.caster.fm:34748/listen.mp3?authn4212ab6e1db15a7f3b0e0f5a0d4ef772
 
+Police North,
+https://www.caster.fm/widgets/em_player.php?jsinit=true&uid=545397&t=yellow&c=&pop=true
+
+Police State,
+https://www.caster.fm/widgets/em_player.php?jsinit=true&uid=541413&t=blue&c=&pop=true
+
 YMHB Gnd/Twr/Centre Airport - South, Tasmania, Australia,
 https://s1-fmt2.liveatc.net/ymhb?nocache=2022073007371612963
 
