@@ -1,5 +1,5 @@
 # Tas GRN Collection
-Tasmania Australia, Government Radio Network Collection,    
+Tasmania Australia, Government Radio Network Collection.    
 
 > I have compiled the direct audio streams to many Tas GRN Networks found hosted on various websites into a simple list and website alongside useful information on police and military operations.    
     
