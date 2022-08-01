@@ -1,7 +1,7 @@
 # Tas-GRN-Collection
 Tasmania Government Radio Network Collection,    
 
-> I have compiled the direct audio streams to many Tas GRN Networks found hosted on various websites into a simple list and website.    
+> I have compiled the direct audio streams to many Tas GRN Networks found hosted on various websites into a simple list and website alongside useful information on police and military operations.    
     
 ### Radio Networks Included,      
 - Fire North
@@ -9,4 +9,8 @@ Tasmania Government Radio Network Collection,
 - Police North   
 - Police South   
 - Airport North
-- Airport South
+- Airport South   
+   
+### Website's.   
+• Version 1 ( HTML Based ) - Website   
+• Version 3 ( PHP Based ) - PHPWebsite
