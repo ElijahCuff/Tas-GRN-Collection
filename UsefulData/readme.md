@@ -2,3 +2,4 @@
 • Information Operations   
 • Communication Operations   
 • Training Operations   
+• Evasion Resources 
