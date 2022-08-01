@@ -12,12 +12,12 @@ Tasmania Government Radio Network Collection,
 - Airport South   
    
 ### Website's.   
-• Version 1 ( HTML Based ) - Website   
-• Version 3 ( PHP Based ) - PHPWebsite   
+- Version 1 ( HTML ) Website   
+- Version 3 ( PHP ) PHPWebsite   
    
 ### Useful Materials,   
-• Information Operations.   
-• Communication Operations.
-• Procedure Operations.
-• Evasion Resources.   
-• Survival Resources.  
+- Information Operations.   
+- Communication Operations.   
+- Procedure Operations.   
+- Evasion Resources.    
+- Survival Resources.     
