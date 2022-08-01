@@ -21,6 +21,9 @@ https://www.caster.fm/widgets/em_player.php?jsinit=true&uid=545397&t=yellow&c=&p
 Police State,
 https://www.caster.fm/widgets/em_player.php?jsinit=true&uid=541413&t=blue&c=&pop=true
 
+Police North,
+https://nwscannerfeed.caster.fm/
+
 YMHB Gnd/Twr/Centre Airport - South, Tasmania, Australia,
 https://s1-fmt2.liveatc.net/ymhb?nocache=2022073007371612963
 
