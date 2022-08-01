@@ -1,0 +1,27 @@
+Call sign	 Use
+Alpha	 Administration
+Bravo	 Burnie General Duties
+Charlie	 CIB Detectives
+Delta	 Devonport General Duties
+Echo	 Eastern Shore General Duties
+Foxtrot	 Georgetown General Duties
+Gulf	 Glenorchy General Duties
+Hotel	 Hobart General Duties
+India	 Northern Midlands
+Juliet	 Domestic Violence Unit
+Kilo	 Kingston General Duties
+Lima	 Launceston General Duties
+Mike	 Motorcycle Officer
+November	 New Norfolk General Duties
+Oscar	 Southern & East Coast Country
+Papa	 Road and Public Order Squad
+Qubec	 Queenstown & Surrounding Areas
+Romeo	 Pushbikes
+Sierra	 Forensics
+Tango	 Traffic/Crash Investigations
+Uniform	 Ulverstone General Duties
+Victor	 Technicians
+Whisky	 Crime Management Units
+X-Ray	 CBD Foot Patrols
+Yankee	 Search & Rescue/Helicopter
+Zulu	 Misc/Drugs/Special Operations
