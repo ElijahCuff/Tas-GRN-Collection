@@ -25,3 +25,7 @@ Whisky	 Crime Management Units
 X-Ray	 CBD Foot Patrols
 Yankee	 Search & Rescue/Helicopter
 Zulu	 Misc/Drugs/Special Operations
+
+Exmaple,
+Echo Tango 31 "At the crash site now."
+Eastern Shore, Traffic/Crash Investigation ( Officer Reference No 31 ) " Message ".
