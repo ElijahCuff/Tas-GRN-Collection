@@ -6,8 +6,9 @@ Tasmania Australia, Government Radio Network Collection.
   
 Reference,.  
 "Telstra awarded $567m TasGRN contract" - https://www.criticalcomms.com.au/content/public-safety/article/telstra-awarded-567m-tasgrn-contract-221547304
-
-
+   
+   
+> My Issue is that they could have payed a development company to make a secure communications application for law enforcement, for far less money - all they need is a work phone.
 
 
 
