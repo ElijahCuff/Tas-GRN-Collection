@@ -11,8 +11,8 @@
 1. frequencies.csv
 2. transmitters.csv
  
- ![searchexample](transmitter.png)
- ![searchexample2](freqs.png)
+ ![searchexample](transmitter.jpg)
+ ![searchexample2](frequencies.jpg)
 
 > The two CSV's need to be used together to locate the exact frequencies for each repeater.
  
