@@ -8,8 +8,8 @@
   
 ##  **The Lists**
 ----
-1. frequencies.csv
-2. transmitters.csv
+1. transmitters.csv
+2. frequencies.csv
  
  ![searchexample](transmitter.jpg)
  ![searchexample2](frequencies.jpg)
