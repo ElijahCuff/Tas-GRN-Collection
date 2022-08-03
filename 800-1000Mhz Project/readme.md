@@ -23,11 +23,35 @@
 
 **33164**`,-42.412421,146.463994,TasNetworks Site Heals Spur WAYATINAH,TAS,5,7140,Within 10 metres,684,LY8F,60`
    
+```
+WELLINGTON,TAS,4,7008,Within 10 metres,1222,LY9M,67
+32899,-42.832041,147.223933,TasNetworks - Site GOAT HILLS GOAT HILLS,TAS,4,7012,Within 10 metres,594,LY9M,84
+32946,-42.866061,147.457558,TasNetworks - Site Guy Fawkes Hill GUY FAWKES HILL,TAS,4,7170,Within 10 metres,329,LY9N,62
+32982,-42.018302,146.75519,Tasmania Fire Service Site BARREN TIER,TAS,4,7030,Within 10 metres,1182,LY8D,28
+33123,-42.367848,147.471248,TasNetworks site Mt Seymour OATLANDS,TAS,4,7120,Within 10 metres,739,LY9F,44
+33147,-42.774729,146.071029,TasNetworks Site Twelve Trees Range STRATHGORDON,TAS,5,7139,Within 10 metres,663,LY8M,16
+33160,-42.716104,146.46609,TasNetworks Site MT Tim Shea MAYDENA,TAS,5,7140,Within 10 metres,903,LY8J,28
+33163,-42.775274,146.654628,TasNetworks Site Abbotts Lookout MAYDENA,TAS,5,7140,Within 10 metres,1059,LY8O,26
+
+```
+
 ###      _frequencies.csv_  
  `LICENSE_NO,`**TOWER_TX_FREQ**`,TOWER_RX_FREQ,`**SITE_NO**   
 
  `1416199,`**866.7625**`,821.7625,`**33164**
  
+```
+1416202,866.8375,821.8375,33951
+1416203,867.8375,822.8375,33951
+1416204,865.4625,820.4625,34270
+1416205,866.4625,821.4625,34270
+1416206,867.4625,822.4625,34270
+1416660,865.3375,820.3375,402275
+1416661,866.3375,821.3375,402275
+1416662,867.3375,822.3375,402275
+1416663,865.1625,820.1625,402276
+1416664,866.1625,821.1625,402276
+```
  
  The tower TX Frequency is the frequency that the repeater will broadcast out to handsets and radio devices while the RX Frequency is the frequency that the Handset will Broadcast Out to the Repeater.
  
