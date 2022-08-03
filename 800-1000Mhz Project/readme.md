@@ -24,7 +24,7 @@
 **33164**`,-42.412421,146.463994,TasNetworks Site Heals Spur WAYATINAH,TAS,5,7140,Within 10 metres,684,LY8F,60`
    
 ###      _frequencies.csv_  
- `LICENSE_NO,`**TOWER_TX_FREQ**`,TOWER_RX_FREQ,SITE_NO`
+ `LICENSE_NO,`**TOWER_TX_FREQ**`,TOWER_RX_FREQ,`**SITE_NO**
  `1416199,`**866.7625**`,821.7625,`**33164**
  
  
