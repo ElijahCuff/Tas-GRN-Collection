@@ -5,7 +5,7 @@
 >  Information can be verified by checking the repeaters registered frequency assignments at the A.C.M.A ( Australian Communications And Media Authority ). 
 
 Transmitters     
-[Website](https://web.acma.gov.au/rrl/site_proximity.for_client?pCLIENT_NO=220486)    
+[Client 220486](https://web.acma.gov.au/rrl/site_proximity.for_client?pCLIENT_NO=220486)    
 Freq's    
 [800Mhz registrations.](https://web.acma.gov.au/rrl/pkg_800mhz_search.results_page?pSEARCH_TYPE=Client%20No.&pQRY=220486)    
   
