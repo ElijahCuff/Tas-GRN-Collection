@@ -1,5 +1,5 @@
 ## RTL-SDR Resources.  
-> Hacking a TV Dongle to become a police scanner
+> Hacking a TV Dongle to become a police scanner or ADSB drone tracker.
 ---
 [YouTube Information Link](https://m.youtube.com/results?sp=mAEA&search_query=Rtl+sdr+provoice+)
    
