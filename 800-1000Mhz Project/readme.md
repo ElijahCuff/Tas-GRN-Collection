@@ -2,7 +2,12 @@
 ----
 > This project aims to provide resources for verifying the frequencies on [Radio Reference ](https://RadioReference.com), In many cases the information may be outdated in your area, for example I needed to request an update to the Mt Horror repeater, as the information was several years old.
  
->  Information can be verified by checking the repeaters registered frequency assignments at the A.C.M.A [Website](https://web.acma.gov.au/rrl/site_proximity.for_client?pCLIENT_NO=220486) ( Australian Communications And Media Authority ).
+>  Information can be verified by checking the repeaters registered frequency assignments at the A.C.M.A ( Australian Communications And Media Authority ). 
+
+Transmitters     
+[Website](https://web.acma.gov.au/rrl/site_proximity.for_client?pCLIENT_NO=220486)    
+Freq's    
+[800Mhz registrations.](https://web.acma.gov.au/rrl/pkg_800mhz_search.results_page?pSEARCH_TYPE=Client%20No.&pQRY=220486)    
   
  Rather than create a whole new list exactly the same as Radio Reference, I decided to download the CSV lists for both site information and 800 to 1000 megahertz frequencies, unfortunately this was a cumbersome task trying to get the frequencies that are displayed on Radio Reference ( This means not including anything above 1Ghz and below 800Mhz )
   
