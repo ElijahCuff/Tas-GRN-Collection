@@ -37,7 +37,7 @@ Reference,.
 - Universal Police TGID ( Talk Group Identification ) numbers.   
 
 ![screen](RTL%20SDR.jpg)    
-![screen](map.jpg)         
+![screen](go.gif)         
 
 
 Radio Reference is often incorrect and outdated, therefore you should check the frequencies via the ACMA Radio Register's website, 
