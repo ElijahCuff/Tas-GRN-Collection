@@ -23,6 +23,8 @@ DEC 	AFS 	Mode 	Alpha Tag	Description	Tag
 1094	08-086	D	PD W37 City	Police West 37 City	Law Tac
 1095	08-087	D	PD W38 Chat	Police West 38 Chat	Law Talk
 Police 
+DEC 	AFS 	Mode 	Alpha Tag	Description	Tag
+1099	08-093	D	PD 42	Police 42	Law Tac
 ```
 
 The talk groups can be annoying to program on some handsets, 🕵️‍♂️ Uniden I'm looking at you.      
