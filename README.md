@@ -8,12 +8,6 @@ Reference,.
 "Telstra awarded $567m TasGRN contract" - https://www.criticalcomms.com.au/content/public-safety/article/telstra-awarded-567m-tasgrn-contract-221547304
    
    
-> My Issue is that they could have payed a development company to make a secure communications application for law enforcement, for far less money - all they need is a work phone.
-
-
-
-  
-
   
 
 > I have compiled the direct audio streams to many Tas GRN Networks found hosted on various websites into a simple list and website alongside useful information on police and military operations.    
@@ -25,6 +19,7 @@ Reference,.
 - Police South   
 - Airport North
 - Airport South   
+
    
 ### Website's,        
 ![screen](Screenshot_20220801_131116.jpg)      
@@ -38,7 +33,8 @@ Reference,.
 - Communication Operations.   
 - Procedure Operations.   
 - Evasion Resources.    
-- Survival Resources.     
+- Survival Resources.  
+- Universal Police TGID ( Talk Group Identification ) numbers.   
 
 ![screen](RTL%20SDR.jpg)    
 ![screen](map.jpg)         
