@@ -3,7 +3,12 @@ Tasmania Australia, Government Radio Network Collection.
 - This project aims to shed light on serious concerns around the Tasmanian Police ( TasPol ) government radio network, most notably that the system is usually covered in it's entirety online through various citizens supplying live scanner feeds directly to the internet.    
 - Tas GRN uses an extremely old method of Edacs Trunking, analogue audio is sent over various switching channels in the 800Mhz range, rarely do they use digital audio or encryption.   
 - The government initiative to improve the security of the Tas GRN is at a massive cost to the tax payers, several million dollars in handset upgrades are needed, they estimate each secure handset to cost around $1000 and the entire network will not be secure until an estimated 10 years,  possibly never.    
-  
+ 
+---
+## The Website     
+The official website is now set to scanner.ga and will be easy to remember as scanner dot government association, although it isn't one - it's easy to remember.     
+   
+
 Reference,.  
 "Telstra awarded $567m TasGRN contract" - https://www.criticalcomms.com.au/content/public-safety/article/telstra-awarded-567m-tasgrn-contract-221547304
    
