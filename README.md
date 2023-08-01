@@ -6,8 +6,7 @@ Tasmania Australia, Government Radio Network Collection.
  
 ---
 ## The Website     
-The official website is now set to scanner.ga and will be easy to remember as scanner dot government association, although it isn't one - it's easy to remember.     
-   
+The official website is now set to https://github.com/ElijahCuff/taspol and will be updated with new streams when found.
 
 Reference,.  
 "Telstra awarded $567m TasGRN contract" - https://www.criticalcomms.com.au/content/public-safety/article/telstra-awarded-567m-tasgrn-contract-221547304
@@ -31,7 +30,7 @@ Reference,.
 
 - Version 1 ( HTML ) Website   
 - Version 3 ( PHP ) PHPWebsite     
-( http://scanner.ga )
+( https://github.com/ElijahCuff/taspol )
    
 ### Useful Materials,   
 - Information Operations.   
